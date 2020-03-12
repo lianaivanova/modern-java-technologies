@@ -1,6 +1,5 @@
 # Modern Java Technologies
 
-## Topics:
 
 | # |   Topics   |
 |:--|:-----------|
