@@ -4,14 +4,14 @@
 
 Нейни основни компоненти са следните няколко класа:
 
-### `class Jira`
+-`class Jira`
 
-### `abstract class Issue`
+- `abstract class Issue`
 
-### - `class Task`
+  - `class Task`
 
-### - `class Feature`
+  - `class Feature`
+  
+  - `class Bug`
 
-### - `class Bug`
-
-### - `class Component`
+  - `class Component`
