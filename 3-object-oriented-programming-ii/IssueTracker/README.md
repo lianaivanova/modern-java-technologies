@@ -4,7 +4,7 @@
 
 Нейни основни компоненти са следните няколко класа:
 
--`class Jira`
+- `class Jira`
 
 - `abstract class Issue`
 
